@@ -2,7 +2,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		Employee emp = new Employee(111, "Smith");
+		Employee emp = new Employee(111, "Ahmed");
 		
 		Employee emp3 = new Employee();
 		emp3.setId(78).setName("Mark");
