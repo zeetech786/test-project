@@ -25,6 +25,11 @@ public class Test {
 		
 	}
 }
+/*
+ * Java Beans
+ * getter and setter Methods
+ * 
+ */
 class Employee{
 	
 	int id;
