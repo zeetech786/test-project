@@ -2,8 +2,12 @@ import java.util.jar.Attributes.Name;
 
 public class GitClass {
 
+	
 	public String name;
 	
+	void test() {
+		
+	}
 	//name = "";
 	//main Method
 	public static void main(String[] args) {
