@@ -17,6 +17,12 @@ public class GitClass {
 		name="Hello";
 
 	}
+
+
+	/*
+	 * method return null
+	 * 
+	 */
 	static String text()
 	{
 		return null;
