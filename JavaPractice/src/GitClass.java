@@ -14,5 +14,9 @@ public class GitClass {
 		// TODO Auto-generated method stub
 
 	}
+	static String text()
+	{
+		return null;
+	}
 
 }
